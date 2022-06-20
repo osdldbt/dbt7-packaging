@@ -44,6 +44,7 @@ cp patches/dbt7-DSGen-software-code-3.2.0rc1-postgresql-queries.diff %{buildroot
 %{installpath}/dbt7-pgsql-drop-tables
 %{installpath}/dbt7-pgsql-get-query-time
 %{installpath}/dbt7-pgsql-load-data
+%{installpath}/dbt7-pgsql-report
 %{installpath}/dbt7-pgsql-run-stream
 %{installpath}/dbt7-pgsql-start-db
 %{installpath}/dbt7-pgsql-stop-db

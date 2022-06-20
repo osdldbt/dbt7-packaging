@@ -1,7 +1,7 @@
 #!/bin/bash -eux
 
 # DBT-7 version
-VERSION="0.4.0"
+VERSION="0.4.1"
 TAG="v$VERSION"
 
 dnf update -y
